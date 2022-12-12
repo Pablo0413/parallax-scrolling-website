@@ -100,6 +100,7 @@ body {
 	background-size: cover;
 	background-position: center;
 	color: #e7e7e0;
+	will-change: transform;
 	display: flex;
 	justify-content: center;
 	align-items: center;
