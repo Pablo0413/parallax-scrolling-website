@@ -105,6 +105,7 @@ body {
 	align-items: center;
 	position: relative;
 	text-align: center;
+	background-image: url(../img/dungeon.jpg);
 }
 
 .main-article__header {
